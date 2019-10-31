@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">democonnectinternet</string>
+    <string name="string_click_to_load">Xin chao!</string>
+    <string name="string_getting_json_title">Đang tải xuống!</string>
+    <string name="string_getting_json_message">vui lòng chờ trong giây lát!</string>
+    <string name="string_some_thing_wrong">Xảy ra lỗi!</string>
+    <string name="string_internet_connection_not_available">Vui lòng kết nối internet!!</string>
+</resources>
